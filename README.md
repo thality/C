@@ -1,2 +1,2 @@
 # C
-Códigos em C do básico aoa avançado
+Códigos em C do básico ao avançado
